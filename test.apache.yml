@@ -1,6 +1,6 @@
 ---
 
-- hosts: all
+- hosts: ubuntu_server
   become: true
   tasks:
 
